@@ -1,2 +1,2 @@
 // define the api base url
-toggleApp.constant('TOGGLE_API_BASE_URL', 'http://0.0.0.0\\:8080'); // development
+toggleApp.constant('TOGGLE_API_BASE_URL', '__TOGGLE_API_BASE_URL__'); // development

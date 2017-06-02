@@ -1,0 +1,7 @@
+.*
+!.bowerrc
+Dockerfile
+app/bower_components
+app/js/config.js
+node_modules
+test
